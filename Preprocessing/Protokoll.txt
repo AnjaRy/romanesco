@@ -1,3 +1,0 @@
-1. Preprocessing: Ein Satz auf jede Linie, einige kleine Änderungen (Grossbuchstaben abkürzungen berücksichtigen etc)
-2. 10% = 2156 
-3. Problem: Viele doofe Sätze (einzelne Klammern, buchstaben...)
