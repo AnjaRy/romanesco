@@ -7,6 +7,6 @@ MODEL_FILENAME = 'model'
 VOCAB_FILENAME = 'vocab.json'
 
 # Ugly hardcoded hyperparameters
-NUM_STEPS = 50 #35 # truncated backprop length
+NUM_STEPS = 100 #35 # truncated backprop length
 LEARNING_RATE = 0.001 #0.0001
 HIDDEN_SIZE = 150 # 1500 # layer size
