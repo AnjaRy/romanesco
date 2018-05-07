@@ -15,7 +15,7 @@ class Vocabulary:
         self._id = {} # {word: id}
         self._word = {} # {id: word}
 
-    def build(self, filename: str, max_size: int = None):
+    def build(self, filename: str, max_size: int = 10000):
         """Builds a vocabulary mapping words (tokens) to ids (integers) and vice
         versa. The more frequent a word, the lower its id. 0 is reserved for
         unknown words.
